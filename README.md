@@ -1,14 +1,14 @@
-# Twison
+# Twison 2
 
 ![Build Status](https://github.com/lazerwalker/twison/workflows/Build/badge.svg)
 
-Twison is a story format for [Twine 2](http://twinery.org/2) that simply exports to JSON.
+Twison is a story format for [Twine 2](http://twinery.org/2) that simply exports to JSON. And it now includes referenced images!
 
 It is inspired by [Entweedle](http://www.maximumverbosity.net/twine/Entweedle/) as a model for how Twine 2 story formats work.
 
 ## Installation
 
-From the Twine 2 story select screen, add a story format, and point it to the url `https://lazerwalker.com/twison/format.js`.
+From the Twine 2 story select screen, add a story format, and point it to the url `https://static.triggered.events/format.js`.
 
 From within your story, set the story format to Twison. Choosing "Play" will now give you a JSON file.
 
